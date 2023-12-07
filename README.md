@@ -2,7 +2,7 @@
 
 ## About me
 
-'''javascript
+'''python
 jun_zhao = {
   Name: 'Jun Hao Zhao',
   location: ['Newcastle Upon Tyne', 'UK'],
