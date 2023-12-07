@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hi, I'm Jun 👋
 
+## About me
+
+'''Javascript
+jun_zhao = {
+  Name: 'Jun Hao Zhao',
+  location: ['Newcastle Upon Tyne', 'UK'],
+  compSci_languages: ['Python', 'Javascript', 'HTML', 'CSS', 'Dart'],
+  human_languages: ['English', 'Cantonese'],
+  tech_interests: ['Web development', 'Cloud Engineering', 'Mobile app development']
+}
+'''
 <!--
 **JunZhao20/JunZhao20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
