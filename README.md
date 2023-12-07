@@ -2,7 +2,7 @@
 
 ## About me
 
-'''python
+```python
 jun_zhao = {
   Name: 'Jun Hao Zhao',
   location: ['Newcastle Upon Tyne', 'UK'],
@@ -10,7 +10,7 @@ jun_zhao = {
   human_languages: ['English', 'Cantonese'],
   tech_interests: ['Web development', 'Cloud Engineering', 'Mobile app development']
 }
-'''
+```
 <!--
 **JunZhao20/JunZhao20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
