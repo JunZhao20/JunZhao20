@@ -6,7 +6,7 @@
 jun_zhao = {
   Name: 'Jun Hao Zhao',
   location: ['Newcastle Upon Tyne', 'UK'],
-  compSci_languages: ['Python', 'Javascript', 'HTML', 'CSS', 'Dart'],
+  compSci_languages: ['Python', 'Javascript', 'SQL', 'HTML', 'CSS', 'Dart'],
   human_languages: ['English', 'Cantonese'],
   tech_interests: ['Web development', 'Cloud Engineering', 'Mobile app development']
 }
